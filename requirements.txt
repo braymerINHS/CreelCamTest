@@ -3,3 +3,4 @@ inference-sdk
 pandas
 openpyxl
 pillow
+opencv-python-headless
