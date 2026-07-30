@@ -1,6 +1,0 @@
-streamlit
-inference-sdk
-pandas
-openpyxl
-pillow
-numpy<2.0.0
