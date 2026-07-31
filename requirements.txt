@@ -1,0 +1,6 @@
+streamlit
+inference-sdk
+opencv-python-headless
+numpy
+pandas
+openpyxl
