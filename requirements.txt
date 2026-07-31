@@ -1,6 +1,0 @@
-streamlit
-inference-sdk
-pandas
-openpyxl
-requests
-opencv-python-headless
